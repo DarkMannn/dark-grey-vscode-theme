@@ -1,0 +1,47 @@
+{
+  "name": "dark-grey-theme",
+  "displayName": "Dark Grey Theme",
+  "description": "Dark, minimalistic VSCode theme with almost no colors other than the beautiful and calming grey.",
+  "version": "0.0.0",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "minimalistic",
+    "minimal",
+    "zen",
+    "clean",
+    "simple",
+    "distraction-free",
+    "clutter-free",
+    "grey",
+    "gray",
+    "silver",
+    "monochrome",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Grey Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-grey-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/dark-grey-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/dark-grey-vscode-theme/issues"
+  },
+  "license": "MIT"
+}
