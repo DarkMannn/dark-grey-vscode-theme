@@ -2,11 +2,11 @@
 
 # Dark Grey Theme
 
-Dark, minimalistic VSCode theme with almost no colors other than the beautiful and calming grey.
+Dark, minimalistic VSCode theme with almost no colors other than a beautiful and calming grey.
 
-![dark-grey-theme](https://imgur.com/8reokiU.png)
+![dark-grey-theme](https://imgur.com/NCGtL8z.png)
 
-![theme preview](https://imgur.com/yykGE0O.png)
+![theme preview](https://imgur.com/xMxMHLJ.png)
 
 </div>
 

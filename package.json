@@ -1,7 +1,7 @@
 {
   "name": "dark-grey-theme",
-  "displayName": "Dark Grey Theme",
-  "description": "Dark, minimalistic VSCode theme with almost no colors other than the beautiful and calming grey.",
+  "displayName": "Dark Grey Color Theme",
+  "description": "Dark, minimalistic VSCode theme with almost no colors other than a beautiful and calming grey.",
   "version": "0.0.0",
   "publisher": "DarkMannn",
   "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
